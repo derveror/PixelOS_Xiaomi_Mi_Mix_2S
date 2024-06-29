@@ -1,0 +1,13 @@
+https://github.com/PixelOS-AOSP
+
+https://github.com/PixelOS-AOSP/hardware_xiaomi
+
+https://github.com/LineageOS/android_device_xiaomi_polaris
+
+https://github.com/TheMuppets/proprietary_vendor_xiaomi_polaris
+
+https://github.com/LineageOS/android_device_xiaomi_sdm845-common
+
+https://github.com/TheMuppets/proprietary_vendor_xiaomi_sdm845-common
+
+https://github.com/crdroidandroid/android_kernel_xiaomi_sdm845

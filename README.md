@@ -1,6 +1,6 @@
 # PixelOS Xiaomi Mi Mix 2S
 
-![2okPze5](https://github.com/derveror/PixelOS_Xiaomi_Mi_Mix_2S/blob/main/pixelos.png?raw=true)
+![2okPze5](https://raw.githubusercontent.com/PixelOS-Releases/banners/fourteen/pixelos-august-24.png)
 ```
 WARNING: THIS IS CUSTOM FIRMWARE, WHICH VOIDS THE WARRANTY OF YOUR DEVICE.
 I AM NOT RESPONSIBLE FOR ANY HARDWARE FAILURES, LOSS OF DATA OR EXPLOSIONS. USE AT YOUR OWN RISK.
